@@ -53,7 +53,7 @@ Copiar e colar livremente 📋
 Clicar e interagir normalmente ⚙️
 
 🧠 Preview Visual
-<div align="center"> <img src="https://github.com/muriloambrozio/unlock-script/assets/00000000/demo.gif" alt="Unlock v2 Preview" width="600" style="border-radius:12px; box-shadow:0 0 12px #00aaff;"> <br> <sub><i>Exemplo de desbloqueio em ação — copiar, colar e selecionar texto livremente.</i></sub> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/MuriloAmbrozio8910/sala-do-vagabundo/refs/heads/main/assets/demo.gif" alt="Unlock v2 Preview" width="600" style="border-radius:12px; box-shadow:0 0 12px #00aaff;"> <br> <sub><i>Exemplo de desbloqueio em ação — copiar, colar e selecionar texto livremente.</i></sub> </div>
 
 🧑‍💻 Autor
 
