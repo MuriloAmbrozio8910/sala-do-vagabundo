@@ -32,7 +32,7 @@ Crie um **novo favorito (bookmark)** no seu navegador e cole este código no cam
 ```js
 javascript:(function(){
   var s=document.createElement('script');
-  s.src='https://muriloambrozio.github.io/unlock-script/unlock.js';
+  s.src='https://muriloambrozio8910.github.io/sala-do-vagabundo/unlocker-v2.js';
   document.body.appendChild(s);
 })();
 ```
