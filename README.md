@@ -39,7 +39,7 @@ javascript:(function(){
 
 💡 Nomeie como Unlock v2 para fácil acesso.
 
-⚡ 2️⃣ Execute Quando Quiser
+### ⚡ 2️⃣ Execute Quando Quiser
 
 Acesse um site que bloqueia cópia ou seleção e clique no favorito Unlock v2.
 Se tudo der certo, aparecerá no console:
@@ -52,15 +52,15 @@ Selecionar texto 🖊️
 Copiar e colar livremente 📋
 Clicar e interagir normalmente ⚙️
 
-🧠 Preview Visual
+### 🧠 Preview Visual
 <div align="center"> <img src="https://raw.githubusercontent.com/MuriloAmbrozio8910/sala-do-vagabundo/refs/heads/main/assets/demo.gif" alt="Unlock v2 Preview" width="600" style="border-radius:12px; box-shadow:0 0 12px #00aaff;"> <br> <sub><i>Exemplo de desbloqueio em ação — copiar, colar e selecionar texto livremente.</i></sub> </div>
 
-🧑‍💻 Autor
+### 🧑‍💻 Autor
 
 Murilo Ambrozio
 💼 Desenvolvedor Web Full Stack
 
-🪪 Licença
+### 🪪 Licença
 
 Este projeto está sob licença MIT.
 Você pode usar, modificar e distribuir — mantendo os créditos originais. 🙌
